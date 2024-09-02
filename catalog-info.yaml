@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TestApp
+  annotations:
+    github.com/project-slug: UdayKunta/TestApp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: UdayKunta
