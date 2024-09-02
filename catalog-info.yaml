@@ -4,6 +4,7 @@ metadata:
   name: TestApp
   annotations:
     github.com/project-slug: UdayKunta/TestApp
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
